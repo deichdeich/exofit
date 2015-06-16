@@ -1,4 +1,4 @@
-# exoplanets
+# exofit
 An implementation of a steepest descent algorithm for fitting exoplanet transit data to Mandel and Agol light curves
 (http://arxiv.org/abs/astro-ph/0210099).
 
