@@ -1,0 +1,9 @@
+This directory contains a fast Mandel & Agol code
+implemented in Python/C.  The code uses a quadratic
+limb darkening law.  
+
+To compile, execute the shell script build.sh.  There 
+is a demo code demo.py that generates a sample light 
+curve and describes the input parameters.
+
+Laura Kreidberg 10/10/13
