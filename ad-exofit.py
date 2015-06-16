@@ -31,8 +31,8 @@ real_y = np.matrix([0,15.23,1.55,0.115,0.58040464894])
 ### INITIAL GUESSES ###
 e = 1e-5 #eccentricity
 aRs = 14.5 #semi-major axis to stellar radius ratio							
-i = 1.5 #inclination angle (radians)					
-p0 = 0.15 #planet to star radius ratio									
+i = 1.4 #inclination angle (radians)					
+p0 = 0.1 #planet to star radius ratio									
 period = 0.5 #planet orbital period (days)      
 
 
@@ -149,7 +149,7 @@ def make_plot(plotnum, drawables, y, i, nrm):
         plt.draw()
 
 
-epsilon = 0.06
+epsilon = 0.05
 
             
 def steepest_descent(liveplot=False):
@@ -194,7 +194,7 @@ def steepest_descent(liveplot=False):
         
         if eta < 1e-5:
             eta = 1e-5
-            
+        
         
         resid0 = resid
         
