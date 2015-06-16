@@ -1,5 +1,6 @@
 # exoplanets
-An implementation of a steepest descent algorithm for exoplanet transit data.
+An implementation of a steepest descent algorithm for fitting exoplanet transit data to Mandel and Agol light curves
+(http://arxiv.org/abs/astro-ph/0210099).
 
 The only thing here that I wrote is 'ad-exofit.py', which implements a version of the algorithm mentioned above.
 I wrote this mostly out of curiosity; it turns out that this method is a lot slower than the Markov Chain Monte
