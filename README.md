@@ -11,4 +11,5 @@ haven't gotten around to coding this.
 There's a neat little feature that lets you watch the fit happen in real time.
 Definition of exhilirating.
 
-The rest of the code (i.e. most of it) is by Laura Kreidberg (http://astro.uchicago.edu/~kreidberg/).
+The rest of the code (i.e. most of it) is by Laura Kreidberg (http://astro.uchicago.edu/~kreidberg/) and included
+here with permission.
