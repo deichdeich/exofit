@@ -1,3 +1,8 @@
+'''
+ad_exofit.py:
+Alex Deich exoplanet fitting
+Date: February 2015
+'''
 import numpy as np
 import matplotlib.pyplot as plt
 import TransitMaker as tm
