@@ -1,6 +1,7 @@
 '''
 ad_exofit.py:
 Alex Deich exoplanet fitting
+Author: Alex Deich
 Date: February 2015
 '''
 import numpy as np
